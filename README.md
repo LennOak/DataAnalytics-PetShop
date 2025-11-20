@@ -32,7 +32,7 @@ O projeto foi guiado pelas seguintes perguntas de negócio, baseadas nas métric
 1.  Qual é o serviço com o **maior Ticket Médio** e como isso se relaciona com o **Faturamento Total** que ele gera?
 2.  Clientes de qual **faixa etária** estão gastando mais por agendamento e como podemos direcionar ofertas de maior valor para eles?
 
-### 📈 Eficiência Operacional e Comportamento do Cliente
+### Eficiência Operacional e Comportamento do Cliente
 3.  Qual é o **dia da semana com maior volume de agendamentos** e como otimizar a escala de funcionários para cobrir essa demanda?
 4.  Qual é a **proporção de clientes com múltiplos pets** e como garantir a fidelidade desse grupo majoritário?
 
