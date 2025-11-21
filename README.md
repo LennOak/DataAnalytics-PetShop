@@ -24,6 +24,12 @@ O projeto demonstra as habilidades de:
 
 ---
 
+## Diagrama de Entidade-Relacionamento - Modelo Conceitual
+
+<img width="1410" height="896" alt="image" src="https://github.com/user-attachments/assets/628342c9-c865-4873-a4ea-6f8ee4937e5f" />
+
+---
+
 ## Objetivos da Análise
 
 O projeto foi guiado pelas seguintes perguntas de negócio, baseadas nas métricas visuais dos Dashboards:
