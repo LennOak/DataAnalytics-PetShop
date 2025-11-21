@@ -95,7 +95,7 @@ Siga os passos para configurar o ambiente e explorar o projeto:
 
 1.  Instale o **Power BI Desktop**.
 2.  Abra o arquivo `DashBoard - PetShop.pbix`.
-3.  **Atenção:** Se o Power BI solicitar credenciais, pode ser necessário atualizar a fonte de dados para que aponte para o servidor local onde você configurou o `db_PetShop` (Passo 1).
+3.  **Atenção:** Se o Power BI solicitar credenciais, pode ser necessário atualizar a fonte de dados para que aponte para o servidor local onde você configurou o `db_PetShop`.
 
 ---
 
