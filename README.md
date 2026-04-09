@@ -1,4 +1,4 @@
-# Análise de Dados PetShop: Receita, Performance e Fidelidade de Clientes
+# Análise de Dados PetShop
 
 ## Introdução ao Projeto
 
