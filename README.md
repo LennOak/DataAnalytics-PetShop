@@ -109,5 +109,4 @@ Siga os passos para configurar o ambiente e explorar o projeto:
 
 * **Eduardo de Carvalho**
 * **LinkedIn:** https://www.linkedin.com/in/eduardo-carvalho-b19681306
-* **GitHub:** https://github.com/LennOak
 * **Email:** ec.eduardocarvalho14@gmail.com
