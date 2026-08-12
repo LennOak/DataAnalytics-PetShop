@@ -17,7 +17,7 @@ O projeto demonstra as habilidades de:
 
 | Arquivo | Descrição | Tecnologia |
 | :--- | :--- | :--- |
-| `Banco de Dados - PetShop.sql` | O script completo para a criação das tabelas, chaves, stored procedures e inserção de dados iniciais do banco de dados (DDL e DML). | SQL (T-SQL) |
+| `Banco de Dados - PetShop.sql` | O script completo para a criação das tabelas, chaves, stored procedures e inserção de dados iniciais do banco de dados. | SQL (T-SQL) |
 | `Modelo Conceitual - PetShop.brM3` | O diagrama de **Entidade-Relacionamento** que define a estrutura lógica do banco de dados.  | BrModelo |
 | `Consultas_Analise_PetShop.sql` | Contém todas as consultas SQL utilizadas para extrair e agregar os dados brutos, gerando as métricas de negócio para a análise. | SQL (T-SQL) |
 | `DashBoard - PetShop.pbix` | O arquivo do projeto **Power BI**, que inclui a conexão com a base de dados, transformações (Power Query) e o modelo final de visualização. | Power BI Desktop |
@@ -88,14 +88,14 @@ Siga os passos para configurar o ambiente e explorar o projeto:
 
 ### 1. Configurar o Banco de Dados
 
-1.  Instale um SGBD de sua preferência (ex: SQL Server Management Studio, Azure Data Studio, DBeaver, etc.).
+1.  Instale um SGBD de sua preferência.
 2.  Abra o script `Banco de Dados - PetShop.sql`.
 3.  Execute o script para criar o banco de dados `db_PetShop`, todas as tabelas e popular com os dados iniciais.
 
 ### 2. Explorar as Consultas
 
 1.  No seu SGBD, abra o script `Consultas_Analise_PetShop.sql`.
-2.  Execute as consultas na ordem para ver como as métricas de negócio (Receita por Serviço, Performance, etc.) foram extraídas.
+2.  Execute as consultas na ordem para ver como as métricas de negócio foram extraídas.
 
 ### 3. Acessar o Dashboard
 
